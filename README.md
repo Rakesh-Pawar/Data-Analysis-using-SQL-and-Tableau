@@ -183,6 +183,6 @@ CALL filter_salary(50000,90000);
 ### Conclusion:
 - Average salary in finance, marketing and sales department is more than other departments.
 ---------------------------------
-## Download Employee_mode from 365 data science [here](https://github.com/UsmanNiazi/365datascience/blob/master/10.%20SQL%20%2B%20Tablue/Excercise%20Files/employees_mod.sql) 
+## Download Employee_mode dataset from 365 data science [here](https://github.com/UsmanNiazi/365datascience/blob/master/10.%20SQL%20%2B%20Tablue/Excercise%20Files/employees_mod.sql) 
 
 
